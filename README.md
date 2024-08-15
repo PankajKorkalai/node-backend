@@ -10,7 +10,7 @@ Welcome to the **Hotel Management Backend** project! This backend is designed to
   - 👨‍💼 Manager
 - **API Creation**: Robust RESTful APIs for managing hotel operations.
 - **Security**: 
-  - 🔒 Password hashing and salting.
+  - 🔒 Password hashing and salting for password security.
   - 🛡️ JWT-based authentication.
 - **Middleware**: Custom middlewares for error handling and route protection.
 - **Environment Configuration**: Using `.env` for secure configuration.
